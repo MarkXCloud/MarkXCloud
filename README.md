@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkXCloud
-- 👀 I’m interested in pattern recognition and deep learning. These are my main topics of my PhD yet to come.
-- 🌱 I’m currently learning neural architecture search and graph neural network.
+- 👀 I’m interested in pattern recognition and deep learning. These are my main topics of my PhD duration.
+- 🌱 I’m currently deep learning theory.
 - 💞️ I’m looking to collaborate on building and designing a brand-new network architecture to perform SOTA.
 - 📫 How to reach me :my QQ🐧: 1348131731
 
