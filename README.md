@@ -3,7 +3,6 @@
 - 🌱 I’m currently research on speculative decoding, multi-token prediction and RL infra.
 - 💞️ I’m looking to collaborate on designing a brand-new network architecture to perform SOTA.
 - 📫 How to contact me: my QQ🐧: 1348131731
-- 
 
 <!---
 MarkXCloud/MarkXCloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
