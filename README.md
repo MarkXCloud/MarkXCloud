@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkXCloud
-- 👀 I’m interested in pattern recognition and deep learning. These are my main topics of my PhD at 🇨🇳 [Chinese Academic of Science Institution of Automation](www.ia.cas.cn).
+- 👀 I’m interested in algorithm-infra co-design, speculative decoding, inference acceleration and RL Infra. These are my main topics of my PhD at 🇨🇳 [Chinese Academic of Science Institution of Automation](www.ia.cas.cn).
 - 🌱 I’m currently research on speculative decoding, multi-token prediction and RL infra.
-- 💞️ I’m looking to collaborate on designing a brand-new network architecture to perform SOTA.
+- 💞️ I’m looking to collaborate on designing an efficient and steady training/inference framework.
 - 📫 How to contact me: my QQ🐧: 1348131731
 
 <!---
